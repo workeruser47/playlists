@@ -1,0 +1,4 @@
+#EXTM3U
+#EXTINF:0,ETV
+#EXTGRP:unsorted
+http://cdn-01.bonus-tv.ru/gsl/tracks-v1a1/mono.m3u8
