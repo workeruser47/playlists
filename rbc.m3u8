@@ -1,0 +1,10 @@
+#EXTM3U
+#EXTINF:0,РБК 1080
+#EXTGRP:unsorted
+http://online.video.rbc.ru/online/rbctvhd_1080p/index.m3u8
+#EXTINF:0,РБК 720
+#EXTGRP:unsorted
+http://online.video.rbc.ru/online/rbctvhd_720p/index.m3u8
+#EXTINF:0,РБК 480
+#EXTGRP:unsorted
+http://online.video.rbc.ru/online/rbctvhd_480p/index.m3u8
