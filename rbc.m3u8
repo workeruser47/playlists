@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:0, tvg-name="RBC"РБК 1080
+#EXTINF:0, tvg-name="RBC", РБК 1080
 http://online.video.rbc.ru/online/rbctvhd_1080p/index.m3u8
 #EXTINF:0,РБК 720
 http://online.video.rbc.ru/online/rbctvhd_720p/index.m3u8
