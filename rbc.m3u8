@@ -1,7 +1,7 @@
 #EXTM3U
 #EXTINF:-1 group-title="Новости" tvg-logo="http://epg.it999.ru/img/743.png" tvg-name="РБК 1080" ,РБК
 http://online.video.rbc.ru/online/rbctvhd_1080p/index.m3u8
-#EXTINF:-1 group-title="Новости" tvg-logo="http://epg.it999.ru/img/743.png" tvg-name="РБК", РБК 720
+#EXTINF:-1 group-title="Новости" tvg-logo="http://epg.it999.ru/img/743.png" tvg-name="РБК 1", РБК 720
 http://online.video.rbc.ru/online/rbctvhd_720p/index.m3u8
-#EXTINF:-1 group-title="Новости" tvg-logo="http://epg.it999.ru/img/743.png" tvg-name="РБК", РБК 480
+#EXTINF:-1 group-title="Новости" tvg-logo="http://epg.it999.ru/img/743.png" tvg-name="РБК 2", РБК 480
 http://online.video.rbc.ru/online/rbctvhd_480p/index.m3u8
