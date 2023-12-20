@@ -1,7 +1,7 @@
 #EXTM3U
-#EXTINF:-1 group-title="Новости", РБК
+#EXTINF:-1 tvg-name="РБК" group-title="Новости", РБК
 http://online.video.rbc.ru/online/rbctvhd_1080p/index.m3u8
-#EXTINF:-1 group-title="Новости", РБК
+#EXTINF:-1 tvg-name="РБК" group-title="Новости", РБК 720
 http://online.video.rbc.ru/online/rbctvhd_720p/index.m3u8
-#EXTINF:-1 group-title="Новости", РБК
+#EXTINF:-1 tvg-name="РБК" group-title="Новости", РБК 480
 http://online.video.rbc.ru/online/rbctvhd_480p/index.m3u8
