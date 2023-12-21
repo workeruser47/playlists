@@ -1,4 +1,3 @@
-#EXTM3U
-#EXTINF:0,ETV
-#EXTGRP:unsorted
+#EXTM3U url-tvg="https://iptvx.one/EPG"
+#EXTINF:-1 tvg-id="e-tv", E HD
 http://cdn-01.bonus-tv.ru/gsl/tracks-v1a1/mono.m3u8
