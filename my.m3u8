@@ -3,3 +3,5 @@
 http://online.video.rbc.ru/online/rbctvhd_1080p/index.m3u8
 #EXTINF:-1 tvg-id="e-tv" group-title="Игры", E HD
 http://cdn-01.bonus-tv.ru/gsl/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Музыка", Bridge Rock
+http://185.23.80.28:8080/BRIDGE_ROCK/index.m3u8?token=test
