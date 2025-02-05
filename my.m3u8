@@ -5,3 +5,7 @@ http://online.video.rbc.ru/online/rbctvhd_1080p/index.m3u8
 http://cdn-01.bonus-tv.ru/gsl/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Музыка", Bridge Rock
 http://185.23.80.28:8080/BRIDGE_ROCK/index.m3u8?token=test
+#EXTINF:-1 group-title="4K", Love Nature 4k
+https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
+#EXTINF:-1 group-title="4K", Museum TV 4k
+http://31.184.197.124/museum_hd/mono.m3u8
