@@ -7,8 +7,10 @@ http://cdn-01.bonus-tv.ru/gsl/tracks-v1a1/mono.m3u8
 http://185.23.80.28:8080/BRIDGE_ROCK/index.m3u8?token=test
 #EXTINF:-1 tvg-td="mtv90s-uk" tvg-logo="https://iptvx.one/picons/mtv90s-uk.png" group-title="Музыка", MTV 90's
 http://45.88.92.3:80/tr3_MTVRocks_SD/index.m3u8?token=test
-#EXTINF:-1 tvg-td="eskatv-rock" tvg-logo="https://iptvx.one/picons/eskatv-rock.png="Музыка", Eska Rock TV HD
+#EXTINF:-1 tvg-td="eskatv-rock" tvg-logo="https://iptvx.one/picons/eskatv-rock.png="Музыка", Eska Rock TV HD PL
 http://178.219.128.68:64889/ESKAROCKTV
+#EXTINF:-1 tvg-td="rock-tv-ro" tvg-logo="https://iptvx.one/picons/rock-tv-ro.png="Музыка", Rock TV HD RO
+https://tv.broadcasting.ro/rocktv/85c83a80-4f71-4f2d-a8d6-43f676896bcb.m3u8
 #EXTINF:-1 tvg-id="love-nature-4k" tvg-logo="https://iptvx.one/picons/love-nature-4k.png" group-title="4K", Love Nature 4k
 https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
 #EXTINF:-1 tvg-id="museum-4k" tvg-logo="https://iptvx.one/picons/museum-4k.png" group-title="4K", Museum TV 4k
