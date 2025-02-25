@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="https://iptvx.one/EPG_NOARCH"
+#EXTM3U url-tvg="https://iptvx.one/EPG_NOARCH,http://epg.one/epg.xml.gz"
 #EXTINF:-1 tvg-id="rbk" tvg-logo="https://iptvx.one/picons/rbk.png" group-title="Новости", РБК FHD
 http://online.video.rbc.ru/online/rbctvhd_1080p/index.m3u8
 #EXTINF:-1 tvg-id="e-tv" tvg-logo="https://iptvx.one/picons/e-tv.png" group-title="Игры", E HD
